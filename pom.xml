@@ -6,7 +6,7 @@
         <artifactId>oss-parent</artifactId>
         <version>7</version>
     </parent>
-    <groupId>com.sparkjava</groupId>
+    <groupId>org.graylog2</groupId>
     <artifactId>spark-parent</artifactId>
     <packaging>pom</packaging>
     <version>2.0.1-SNAPSHOT</version>
